@@ -1,12 +1,12 @@
 from . import __version__ as app_version
 
-app_name = "frappe_system_monitor"
-app_title = "Frappe System Monitor"
-app_publisher = "Anthony Emmanuel"
-app_description = "System monitor for frappe and ERPNExt"
+app_name = "oko_database_itsm"
+app_title = "Oko System Server Monitor"
+app_publisher = "APAK Team"
+app_description = "System monitor for Oko ERP"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "hackacehuawei@gmail.com"
+app_email = "office@apak.at"
 app_license = "MIT"
 
 # Includes in <head>
